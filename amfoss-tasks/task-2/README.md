@@ -1,0 +1,1 @@
+in the beginning i downloaded image from google and tried to extract text from it.but i was unable extract text from it.again i read the question carefully then i started writing a python code and extracted text from it.finally i got the answer after many tries.
